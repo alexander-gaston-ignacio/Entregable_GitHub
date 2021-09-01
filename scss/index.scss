@@ -1,0 +1,59 @@
+@import './header';
+@import './div';
+
+
+        /* seccion menu principal */
+
+.titulo {
+    color: indigo;
+}
+
+.navegacion__item--rojo {
+        color: red;    
+    }
+
+.navegacion__item--azul {
+        color: blue;    
+}
+    
+.navegacion__item--verde {
+    color: green;    
+}
+
+.cabecera {
+    background: linear-gradient(to bottom, rgba(30,87,153,1) 0%,rgba(41,137,216,1) 0%,rgba(32,124,202,1) 51%,rgba(125,185,232,1) 100%);
+}
+
+
+
+        /* seccion quienes */ 
+
+.titulo-2 {
+    background: $color-2;
+    font-family: $tipografia;
+}
+
+.fondo {
+    background: $color-1;
+}
+
+.parrafo {
+    width: $ancho/2;
+    font-size: 20px;
+}
+
+.lista {
+    width: $ancho-1;
+    font-size: 20px;
+}
+
+.banner {
+    background: $color-2;
+    padding: 2px;    
+}
+
+.parrafo-1 {
+    font-size: 20px;
+}
+
+

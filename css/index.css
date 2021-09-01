@@ -1,0 +1,38 @@
+/* seccion menu principal */
+.titulo {
+  color: indigo; }
+
+.navegacion__item--rojo {
+  color: red; }
+
+.navegacion__item--azul {
+  color: blue; }
+
+.navegacion__item--verde {
+  color: green; }
+
+.cabecera {
+  background: linear-gradient(to bottom, #1e5799 0%, #2989d8 0%, #207cca 51%, #7db9e8 100%); }
+
+/* seccion quienes */
+.titulo-2 {
+  background: linear-gradient(to bottom, white 0%, rgba(255, 255, 255, 0) 100%);
+  font-family: "Roboto", sans-serif; }
+
+.fondo {
+  background: linear-gradient(to bottom, #7abcff 0%, #60abf8 44%, #4096ee 100%); }
+
+.parrafo {
+  width: 450px;
+  font-size: 20px; }
+
+.lista {
+  width: 360px;
+  font-size: 20px; }
+
+.banner {
+  background: linear-gradient(to bottom, white 0%, rgba(255, 255, 255, 0) 100%);
+  padding: 2px; }
+
+.parrafo-1 {
+  font-size: 20px; }
